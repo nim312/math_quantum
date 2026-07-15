@@ -5,3 +5,4 @@
 layout: single
 author_profile: false
 ---
+Complex numbers are are numbers with a *real components* and an *imaginary component*
