@@ -12,8 +12,7 @@ It can be helpful to visualize complex numbers on the complex plane:
 ![complex_image](https://upload.wikimedia.org/wikipedia/commons/5/5d/Imaginarynumber2.PNG)
 
 Complex numbers can also be represented in polar form as below
-[![polar_form](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Euler%27s_formula.svg/250px-Euler%27s_formula.svg.jpg)]
-(https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_1e_(OpenStax)/08%3A_Further_Applications_of_Trigonometry/8.05%3A_Polar_Form_of_Complex_Numbers)
+[![polar_form](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Euler%27s_formula.svg/250px-Euler%27s_formula.svg.png)](https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_1e_(OpenStax)/08%3A_Further_Applications_of_Trigonometry/8.05%3A_Polar_Form_of_Complex_Numbers)
 
 To understand how the polar form is derived, check out this video: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=KpZM1HVsF6wPEbmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
