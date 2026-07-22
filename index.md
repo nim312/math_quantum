@@ -5,14 +5,8 @@
 layout: single
 author_profile: false
 ---
-Complex numbers are are numbers with a *real components* and an *imaginary component* a + bi where a and b are **real numbers** and i is the imaginary unit
-An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
+This project will explore how quantum optimization algorithms could help astronomers decide which exoplanets are the most promising candidates for further observation. By applying concepts from quantum information science to the challenge of limited telescope resources and massive astronomical datasets, this project will investigate whether quantum approaches could improve the efficiency of exoplanet exploration.
 
-It can be helpful to visualize complex numbers on the complex plane:
-![complex_image](https://upload.wikimedia.org/wikipedia/commons/5/5d/Imaginarynumber2.PNG)
+![planet_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzeaoHYr9ymEfN-IyxhKuMCpouUl_wowaTTg3cstqCQ&s=10)
 
-Complex numbers can also be represented in polar form as below
-[![polar_form](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Euler%27s_formula.svg/250px-Euler%27s_formula.svg.png)](https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_1e_(OpenStax)/08%3A_Further_Applications_of_Trigonometry/8.05%3A_Polar_Form_of_Complex_Numbers)
 
-To understand how the polar form is derived, check out this video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=KpZM1HVsF6wPEbmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
