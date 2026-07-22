@@ -11,14 +11,12 @@ Quantum computing offers a new approach to solving certain optimization problems
 This project will investigate the potential connection between quantum computing and astronomy by examining how quantum optimization algorithms could be applied to exoplanet searches. Rather than replacing astronomers’ current methods, quantum computing could provide additional tools for prioritizing and analyzing observations.
 
 **Motivation**
-
 To help astronomers efficiently prioritize exoplanet observations and identify promising candidates for supporting life.
 
 Watch this to understand exoplanet detection:
 <iframe width="1337" height="752" src="https://www.youtube.com/embed/e94ePtVRRFI" title="Exoplanet Detection Methods | The Simple Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 References:
-
 https://arxiv.org/pdf/2607.06931 
-
 https://science.nasa.gov/astrophysics/programs/exep/
