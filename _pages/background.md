@@ -1,5 +1,5 @@
 ---
-permalink: /backround/
+permalink: /background/
 title: "Background"
 ---
 The discovery of thousands of exoplanets has transformed our understanding of planetary systems beyond Earth. However, finding planets that are potentially habitable remains a major challenge. Astronomers must analyze many characteristics, including a planet’s size, orbit, temperature, and atmospheric composition, while also deciding which candidates deserve additional observations from limited telescope time.
