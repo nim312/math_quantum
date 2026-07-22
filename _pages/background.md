@@ -18,7 +18,7 @@ Watch this to understand exoplanet detection:
 <iframe width="1337" height="752" src="https://www.youtube.com/embed/e94ePtVRRFI" title="Exoplanet Detection Methods | The Simple Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-References:
+**References**
 
 https://arxiv.org/pdf/2607.06931 
 https://science.nasa.gov/astrophysics/programs/exep/
