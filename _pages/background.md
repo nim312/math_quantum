@@ -20,5 +20,5 @@ Watch this to understand exoplanet detection:
 
 **References** <br>
 [Quantum measurement for detection](https://arxiv.org/pdf/2607.06931) <br>
-[NASA exoplanet program](https://science.nasa.gov/astrophysics/programs/exep/)
+[NASA exoplanet program](https://science.nasa.gov/astrophysics/programs/exep/)<br>
 [Quantum optimization algorithm](https://arxiv.org/pdf/1411.4028)
