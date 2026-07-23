@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: false
+author_profile: true
 ---
 This project will explore how quantum optimization algorithms could help astronomers decide which exoplanets are the most promising candidates for further observation. By applying concepts from quantum information science to the challenge of limited telescope resources and massive astronomical datasets, this project will investigate whether quantum approaches could improve the efficiency of exoplanet exploration.
 
