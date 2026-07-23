@@ -9,18 +9,16 @@ This creates a difficult optimization problem. With thousands of possible target
 
 Quantum computing offers a new approach to solving certain optimization problems. Quantum algorithms use concepts such as superposition and quantum measurement to process information differently from classical computers. Algorithms such as the Quantum Approximate Optimization Algorithm (QAOA) are being studied as possible methods for solving complex decision-making problems by exploring large solution spaces more efficiently.
 
-This project will investigate the potential connection between quantum computing and astronomy by examining how quantum optimization algorithms could be applied to exoplanet searches. Rather than replacing astronomers’ current methods, quantum computing could provide additional tools for prioritizing and analyzing observations.
+This project will investigate the potential connection between quantum computing and astronomy by examining how quantum optimization algorithms could be applied to exoplanet searches. Rather than replacing astronomers’ current methods, quantum computing could provide additional tools for prioritizing and analyzing observations. 
 
-**Motivation**
-
+**Motivation** <br>
 To help astronomers efficiently prioritize exoplanet observations and identify promising candidates for supporting life.
 
 Watch this to understand exoplanet detection:
 <iframe width="1337" height="752" src="https://www.youtube.com/embed/e94ePtVRRFI" title="Exoplanet Detection Methods | The Simple Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
-
-**References**
-
+**References** <br>
 [Quantum measurement for detection](https://arxiv.org/pdf/2607.06931) 
 [NASA exoplanet program](https://science.nasa.gov/astrophysics/programs/exep/)
 [Quantum optimization algorithm](https://arxiv.org/pdf/1411.4028)
