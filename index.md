@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-This project will explore how quantum optimization algorithms could help astronomers decide which exoplanets are the most promising candidates for further observation. By applying concepts from quantum information science to the challenge of limited telescope resources and massive astronomical datasets, this project will investigate whether quantum approaches could improve the efficiency of exoplanet exploration.
+This project will explore how quantum optimization algorithms could help astronomers decide which exoplanets are the most promising candidates for further observation or even living. It will apply concepts from quantum information science to the challenge of limited telescope resources and massive astronomical datasets.
 
 ![planet_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzeaoHYr9ymEfN-IyxhKuMCpouUl_wowaTTg3cstqCQ&s=10)
 
