@@ -14,6 +14,7 @@ This project will investigate the potential connection between quantum computing
 **Motivation** <br>
 To help astronomers efficiently prioritize exoplanet observations and identify promising candidates for supporting life.
 
+<br>
 Watch this to understand exoplanet detection:
 <iframe width="1337" height="752" src="https://www.youtube.com/embed/e94ePtVRRFI" title="Exoplanet Detection Methods | The Simple Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
